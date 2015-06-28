@@ -18,7 +18,7 @@ class SuiteParser {
     }
 
     def getErrors() {
-        return errors
+        return errors + 1
     }
 
     def getTests() {
