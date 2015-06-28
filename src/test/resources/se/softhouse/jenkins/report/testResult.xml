@@ -1,0 +1,35 @@
+<testsuite failures="0" time="0.095" errors="0" skipped="0" tests="31" name="triangle.TriangleTest">
+    <properties>
+    </properties>
+    <testcase time="0.005" classname="triangle.TriangleTest" name="testIsIsoTrue"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyImpossibleLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testSetSideLengths"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsIsoFalseAbove"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsImpossibleFalseALB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsImpossibleFalseBUB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsRightAngledBelow"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyNotScaleneTriangle"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsEqiTrue"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsEqiBelow"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyScaleneTriangle"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsIsoBelow"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyRightAngled"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyEqi"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsImpossibleTrueLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyRightAngledLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyRightAngledUB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsRightAngledFalseAbove"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testGetSideLengths"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsScaleneFalse"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsScaleneTrue"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyEqiLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyEqiUB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyIsoLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyIsoUB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testGetAreaLB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyNotImpossibleALB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testClassifyNotImpossibleBUB"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsEqiFalseAbove"/>
+    <testcase time="0.005" classname="triangle.TriangleTest" name="testGetPerimiter"/>
+    <testcase time="0" classname="triangle.TriangleTest" name="testIsRightAngledTrue"/>
+</testsuite>

@@ -1,6 +1,4 @@
-apply plugin: 'java'
 apply plugin: 'groovy'
-apply plugin: 'eclipse'
 
 sourceCompatibility = 1.6
 version = '0.0.1'
