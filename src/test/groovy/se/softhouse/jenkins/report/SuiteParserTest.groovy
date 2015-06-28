@@ -32,6 +32,13 @@ class SuiteParserTest {
     }
 
     @Test
+    void testFailuresAndErrorsAreUnique() {
+        parser.parse(xmlString2)
+
+        assert parser.getFailures() != parser.getErrors()
+    }
+
+    @Test
     void testGetTestCases() {
         parser.parse(xmlString1)
 
